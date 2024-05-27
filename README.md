@@ -52,5 +52,5 @@ This project is licensed under the MIT License.
 
 5. Corporate Energy Consumption | Open Calgary (1 March 2024). Available at: https://data.calgary.ca/Environment/Corporate-Energy-Consumption/crbp-innf/about_data (Accessed: 2 March 2024).
 
-6. anagement, E. & S. (no date a) BenchmarkYYC, https://www.calgary.ca. Available at: https://www.calgary.ca/content/www/en/home/environment/climate/building-energy-benchmarking-program.html (Accessed: 5 March 2024).
+6. Management, E. & S. (no date a) BenchmarkYYC, https://www.calgary.ca. Available at: https://www.calgary.ca/content/www/en/home/environment/climate/building-energy-benchmarking-program.html (Accessed: 5 March 2024).
 
