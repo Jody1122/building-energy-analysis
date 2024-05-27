@@ -1,4 +1,4 @@
-# Building Energy Analysis - The City of Calagry
+# Building Energy Analysis - The City of Calgary
 
 ## Introduction
 
